@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Main file
-"""
+""" Main file """
 
 Cache = __import__('exercise').Cache
 
